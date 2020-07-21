@@ -5,15 +5,15 @@ Welcome to my profile, most of my work is private. But I have some exciting proj
 ### Tooling
 **Languages and Tools I use**  
 
-<img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png">
-<img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/typescript/typescript.png">
-<img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/java/java.png">
-<img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/php/php.png">
-<img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/atom/atom.png">
-<img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/mongodb/mongodb.png">
-<img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/mysql/mysql.png">
-<img height="40" src="https://resources.jetbrains.com/storage/products/intellij-idea/img/meta/intellij-idea_logo_300x300.png">
-<img height="40" src="https://resources.jetbrains.com/storage/products/webstorm/img/meta/webstorm_logo_300x300.png">
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/typescript/typescript.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/java/java.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/php/php.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/atom/atom.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/mongodb/mongodb.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/mysql/mysql.png"></code>
+<code><img height="40" src="https://resources.jetbrains.com/storage/products/intellij-idea/img/meta/intellij-idea_logo_300x300.png"></code>
+<code><img height="40" src="https://resources.jetbrains.com/storage/products/webstorm/img/meta/webstorm_logo_300x300.png"></code>
 
 And many more
 
