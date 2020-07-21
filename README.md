@@ -36,15 +36,14 @@ More soon...
 ### Contact And Social
 **Where to find me or contact me**  
 
-[![Website](/img/www.png)](https://cadox8.es)
-[![Github](/img/github.png)](https://github.com/cadox8)
-[![Twitter](/img/twitter.png)](https://twitter.com/cadox8)
-[![Telegram](/img/telegram.png)](https://telegram.me/cadox8)
-[![Keybase](/img/keybase.png)](https://keybase.io/cadox8)
-[![Dev.to](/img/dev.png)](https://dev.to/cadox8)
-[![Patreon](/img/patreon.png)](https://patreon.com/cadox8)
-[![Discord](/img/discord.png)](http://invite.cadox8.es)
-[![Email](/img/mail.png)](mailto:cadox8@gmail.com)
+[![Website](https://github.com/cadox8/cadox8/blob/master/img/www.png)](https://cadox8.es)
+[![Twitter](https://github.com/cadox8/cadox8/blob/master/img/twitter.png)](https://twitter.com/cadox8)
+[![Telegram](https://github.com/cadox8/cadox8/blob/master/img/telegram.png)](https://telegram.me/cadox8)
+[![Keybase](https://github.com/cadox8/cadox8/blob/master/img/keybase.png)](https://keybase.io/cadox8)
+[![Dev.to](https://github.com/cadox8/cadox8/blob/master/img/dev.png)](https://dev.to/cadox8)
+[![Patreon](https://github.com/cadox8/cadox8/blob/master/img/patreon.png)](https://patreon.com/cadox8)
+[![Discord](https://github.com/cadox8/cadox8/blob/master/img/discord.png)](http://invite.cadox8.es)
+[![Email](https://github.com/cadox8/cadox8/blob/master/img/mail.png)](mailto:cadox8@gmail.com)
 
 #### Credits
 - Images: [Freepik](https://www.flaticon.com/authors/freepik)
