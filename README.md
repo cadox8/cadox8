@@ -1,37 +1,47 @@
-### What's up! 👋
+### Hey! I'm Iván "Cadox8" Rica
 
 Welcome to my profile, most of my work is private. But I have some exciting projects here.
 
-### Tooling
-**Languages and Tools I use**  
+```TypeScript
+namespace Cadox8 {
 
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/typescript/typescript.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/java/java.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/php/php.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/atom/atom.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/mongodb/mongodb.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/mysql/mysql.png"></code>
-<code><img height="40" src="https://resources.jetbrains.com/storage/products/intellij-idea/img/meta/intellij-idea_logo_300x300.png"></code>
-<code><img height="40" src="https://resources.jetbrains.com/storage/products/webstorm/img/meta/webstorm_logo_300x300.png"></code>
+    export class About extends Me {
 
-And many more
+        constructor() {
+            super('Iván "Cadox8" Rica', 'He | Him', 'Spanish | English')
+        }
 
+        public getProgrammingLanguages(): string[] {
+            return [
+                "Java",
+                "JavaScript",
+                "TypeScript",
+                "PHP",
+                "C",
+                "C++",
+                "Lua",
+                "Python"
+            ]
+        }
 
-### What I work on
-**Here are some projects I've helped with**  
+        public getDatabases(): string[] {
+            return [
+                "MySQL",
+                "MongoDB"
+            ]
+        }
 
-[![UnderGames(FEM)](https://cadox8.es/img/undergames.webp)](https://github.com/cadiducho/FEM)
-
-More soon...
-
-**Here are some of the work projects I can share**  
-
-<a href="https://github.com/cadox8/Kristine"><img height="40" src="https://raw.githubusercontent.com/cadox8/Kristine/master/docs/img/kristine.jpg"></a>
-<a href="https://github.com/cadox8/PA"><img height="40" src="https://athonedevs.github.io/img/pa.png"></a>
-<a href="https://github.com/cadox8/LoM"><img height="40" src="https://i2.wp.com/minecraftdescargas.com/wp-content/uploads/2015/05/LOLMinecraft-1.jpg"></a>
-<a href="https://github.com/cadox8/PA_Web"><img height="40" src="https://athonedevs.github.io/img/pa.png"></a>
-<a href="https://github.com/cadox8/XenAPI"><img height="40" src="https://raw.githubusercontent.com/cadox8/XenAPI/master/docs/img/logo.png"></a>
+        public getLoves(): string[] {
+            return [
+                "Space",
+                "Photography",
+                "Cats",
+                "Purple things!"
+            ]
+        }
+    }
+}
+```
 
 ### Contact And Social
 **Where to find me or contact me**  
@@ -45,7 +55,7 @@ More soon...
 [![Discord](https://github.com/cadox8/cadox8/blob/master/img/discord.png)](http://invite.cadox8.es)
 [![Email](https://github.com/cadox8/cadox8/blob/master/img/mail.png)](mailto:cadox8@gmail.com)
 
-#### Credits
+**Credits**
 - Images: [Freepik](https://www.flaticon.com/authors/freepik)
 - Patreon Icon: [Pixel perfect](https://www.flaticon.com/authors/pixel-perfect)
 - Discord Icon: [Flatart](https://www.iconfinder.com/icons/4394223/discord_logo_logos_icon)
